@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="space_1x">8dp</dimen>
+    <dimen name="space_2x">16dp</dimen>
+    <dimen name="user_view__image_size">60dp</dimen>
+    <dimen name="user_page__image_size">120dp</dimen>
+</resources>
